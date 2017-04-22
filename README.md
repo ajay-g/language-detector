@@ -104,7 +104,7 @@ N-grams http://en.wikipedia.org/wiki/N-gram were then extracted from that text, 
 
 When trying to figure out in what language a certain text is written, the program goes through the same process:
 It creates the same kind of n-grams of the input text. Then it compares the relative frequency of them, and finds the
-language that matches best.
+language that matches best. Bullsye!
 
 
 ### Challenges
