@@ -13,7 +13,7 @@ Language Detection Library for Java
 
 ### 71 Built-in Language Profiles
 
-1. af Afrikaans
+1. af Afrikaans !
 1. an Aragonese
 1. ar Arabic
 1. ast Asturian
