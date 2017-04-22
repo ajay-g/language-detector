@@ -150,7 +150,7 @@ See https://github.com/optimaize/language-detector/wiki/Creating-Language-Profil
 
 
 ## How You Can Help
-Hell eyah
+
 If your language is not supported yet, then you can provide clean "training text", that is, common text written in your
 language. The text should be fairly long (a couple of pages at the very least). If you can provide that, please open
 a ticket.
